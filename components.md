@@ -36,9 +36,6 @@ Breadboard.
 ![download](https://github.com/SUBHADIPMAITI-DEV/Automatic-Fire-Detector-and-Extinguisher/assets/78700974/af8d334e-7d48-47d1-8a6c-4a755200be9b)
 
 
-Bokachuda
-![profile-pic (3)](https://github.com/SUBHADIPMAITI-DEV/Automatic-Fire-Detector-and-Extinguisher/assets/78700974/52da6fb6-eebd-4ab9-b3f9-c64d387db2e6)
-
 
 
 
